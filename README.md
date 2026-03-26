@@ -38,4 +38,4 @@ Running `docker build . -o output/` would create an `output/` directory containi
 
 ## Credits
 
-This project is insipred by https://github.com/rlespinasse/docker-drawio-desktop-headless released under the MIT license.
+This project is inspired by https://github.com/rlespinasse/docker-drawio-desktop-headless released under the MIT license.
